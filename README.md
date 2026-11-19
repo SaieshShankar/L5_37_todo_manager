@@ -1,4 +1,10 @@
-# Lab 5: Static Code Analysis — To-Do List & Task Manager
+# Static Analysis: To-Do Manager
+
+**Software engineering coursework · Python · Pylint · Flake8 · Bandit**
+
+A task-manager exercise for reviewing code quality and security findings. Start with [the source](todo_manager.py) and [reflection](reflection.md). Original assignment instructions are retained below; target scores are coursework goals rather than verified results from this cleanup.
+
+## Original lab instructions
 
 **Your file:** `todo_manager.py`
 
